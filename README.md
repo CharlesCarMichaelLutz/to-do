@@ -21,4 +21,4 @@ was unclear at first, but once I got my hands dirty and dove in head first I was
 which functions to use and how to make the application run smoothly.
 
 ### Author
-* __Charles Lutz__ - *Full-Stack Software Developer* - [Personal Website](under construction) | [LinkedIn](www.linkedin.com/in/CharlesCarMichaelLutz)
+* __Charles Lutz__ - *Full-Stack Software Developer* - [Personal Website](https://master--resplendent-cocada-4ee40d.netlify.app/) | [LinkedIn](www.linkedin.com/in/CharlesCarMichaelLutz)
