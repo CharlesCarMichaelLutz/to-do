@@ -4,7 +4,7 @@
 A site that allows a user to input tasks they want to do written in JavaScript, HTML ,and CSS.
 
 
-#### check it out [here](https://charles-carm.github.io/to-do/)
+#### check it out [here](https://charlescarmichaellutz.github.io/to-do/)
 ---
 
 ![todooo](https://user-images.githubusercontent.com/103493003/166660253-5bd14c70-0d33-4eaa-9dbb-0b4e120fbaa0.PNG)
